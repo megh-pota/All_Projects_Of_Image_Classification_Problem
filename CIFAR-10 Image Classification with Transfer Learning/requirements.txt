@@ -1,0 +1,11 @@
+Python== 3.12.12
+TensorFlow== 2.19.0
+NumPy== 2.0.2
+Pandas== 2.2.2
+Scikit-learn== 1.6.1
+Matplotlib== 3.10.0
+Seaborn== 0.13.2
+OpenML== 0.15.1
+OpenCV== 4.13.0
+h5py== 3.15.1
+
